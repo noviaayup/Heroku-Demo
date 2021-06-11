@@ -9,4 +9,13 @@ scipy>=0.15.1
 scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
-
+Pillow
+requests
+streamlit
+scikit_image==0.17.2
+numpy==1.17.2
+opencv_python==4.1.1.26
+streamlit==0.64.0
+pandas==0.25.1
+https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+fastai
